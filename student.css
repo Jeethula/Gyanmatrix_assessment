@@ -1,0 +1,70 @@
+html,
+body{
+    background-image: url("Rectangle\ 50.png");
+}
+#a{
+    position: absolute;
+    width: 362px;
+    height: 353px;
+    left: 83px;
+    top: 136px;
+    
+}
+#b{
+    position: absolute;
+    width: 362px;
+    height: 353px;
+    left: 539px;
+    top: 136px; 
+}
+#c{
+    position: absolute;
+width: 362px;
+height: 353px;
+left: 995px;
+top: 136px;
+}
+#d{
+    position: absolute;
+width: 362px;
+height: 353px;
+left: 83px;
+top: 534px;
+}
+#e{
+    position: absolute;
+width: 362px;
+height: 353px;
+left: 539px;
+top: 534px;
+}
+#f{
+    position: absolute;
+width: 362px;
+height: 353px;
+left: 995px;
+top: 534px;
+}
+
+#student1{
+    position: absolute;
+width: 217px;
+height: 83px;
+left: 958px;
+top: 37px;
+}
+#staff1{
+    position: absolute;
+width: 162px;
+height: 83px;
+left: 1243px;
+top: 37px;
+}
+
+#log{
+    position: absolute;
+    width: 266px;
+    height: 116.51px;
+    left: 29px;
+    top: 13px;
+}
